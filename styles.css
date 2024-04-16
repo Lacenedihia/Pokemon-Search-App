@@ -142,17 +142,17 @@ label {
 }
 
 #types {
-  min-height: 30px;
+  min-height: 35px;
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
-  gap: 5px;
+  gap: 3px;
 }
 
 .type {
-  width: 66px;
+  width: 70px;
   padding: 5px;
-  font-size: 0.7rem;
+  font-size: 0.65rem;
   text-align: center;
   border-radius: 5px;
   background-color: rgb(179, 255, 0);
